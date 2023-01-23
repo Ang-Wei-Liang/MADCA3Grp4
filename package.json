@@ -40,7 +40,10 @@
     "@react-native-community/masked-view": "*",
     "@react-navigation/material-top-tabs": "6.2.1",
     "@react-navigation/material-bottom-tabs": "6.2.1",
-    "react-native-keyboard-aware-scroll-view": "0.9"
+    "react-native-keyboard-aware-scroll-view": "0.9",
+    "react-native-web": "~0.18.7",
+    "react-dom": "18.0.0",
+    "@expo/webpack-config": "^0.17.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
