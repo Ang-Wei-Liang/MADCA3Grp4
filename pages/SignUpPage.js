@@ -5,7 +5,10 @@ import Icon from "@expo/vector-icons/MaterialCommunityIcons";
 
 
 function SignUpPage(props) {
-  
+  const [email, setEmail] = useState('')
+  const [password, setPassword] = useState('')
+
+
   return (
     <TouchableWithoutFeedback onPress={() => {
       Keyboard.dismiss();

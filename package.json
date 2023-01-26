@@ -25,6 +25,7 @@
     "react": "18.0.0",
     "react-dom": "18.0.0",
     "react-icons": "*",
+    "firebase": "8.2.3",  
     "react-native": "0.69.6",
     "react-native-canvas": "*",
     "react-native-element-dropdown": "*",
